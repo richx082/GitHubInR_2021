@@ -1,6 +1,8 @@
 
 # Git and GitHub in R/RStudio
 
+This is my copy of the workshop materials!
+
 Hi ski
 
 This short workshop (and repo) provide information on the following things:
